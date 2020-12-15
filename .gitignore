@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Everyone manages their own copy of decompressed data
+Resources/
