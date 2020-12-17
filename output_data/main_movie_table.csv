@@ -1,4 +1,4 @@
-Movie_ID,title,Genres,release_date,budget,revenue,Runtime,Country,Language,spoken_languages_number,Age,popularity,vote_average,vote_count,imdb_id,IMDb,Rotten Tomatoes,Director_ID
+Movie_ID,title,Genres,release_date,budget,revenue,Runtime,Country,Language,spoken_languages_number,Age,popularity,vote_average,vote_count,imdb_id,IMDb,Rotten_Tomatoes,Director_ID
 0,Finding Nemo,"Animation,Adventure,Comedy,Family",2003,94000000,940335536,100,"United States,Australia",English,1,all,9.915573,7.6,5531,266543,8.1,99%,420
 1,The Endless Summer,"Documentary,Sport",1966,0,0,95,United States,English,1,7+,0.144179,7.8,20,60371,7.7,100%,421
 2,Pirates of the Caribbean: The Curse of the Black Pearl,"Action,Adventure,Fantasy",2003,140000000,655011224,143,United States,English,1,13+,28.769026,7.4,6368,325980,8,79%,422
